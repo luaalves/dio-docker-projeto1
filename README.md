@@ -50,10 +50,10 @@ Será implementado o Apache Airflow com um banco de dados PostgreSQL e o Redis, 
 │   └── webserver_config.py
 ├── dags
 │   └── exemplo_dag.py
-├── logs
 ├── data
 │   ├── postgres/
 │   └── redis/
+├── logs
 ├── .env
 ├── docker-compose.yaml
 ├── Dockerfile
